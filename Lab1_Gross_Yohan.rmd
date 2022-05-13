@@ -1,6 +1,6 @@
 ---
 title: "52414 - lab 1 Solutions"
-author: "Yohan Gross and Shoham Azulay"
+author: "Yohan Gross"
 date: "10/4/2022"
 output: html_document
 ---
